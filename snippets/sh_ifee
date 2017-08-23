@@ -1,0 +1,7 @@
+if [[ ||+condition+|| ]]; then
+  ||+#code+||
+elif [[ ||+condition+|| ]]; then
+  ||+#code+||
+else
+  ||+#code+||
+fi

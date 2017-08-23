@@ -1,0 +1,25 @@
+/**
+ * ||+Class description+||
+ *
+ * @version ||++||
+ * @author  ||++||
+ */
+||+public private+||class ||+TheName+|| {
+    // fields
+    private ||+type+|| ||+name+||;
+
+    // constructors
+    public ||+Name+||(||++||) {
+        ||++||;
+    }
+
+    // methods
+    public ||+type+|| ||+getName+||(||++||) {
+        ||++||;
+    }
+
+    public void ||+setName+||(||++||) {
+        ||++||;
+    }
+
+}

@@ -1,0 +1,3 @@
+if {[catch {||+something+||} ||+err+||]} {
+    ||+# handle the failure+||
+}

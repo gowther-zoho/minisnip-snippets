@@ -1,0 +1,13 @@
+# ||+name+|| --
+#
+#   ||+synopsis+||
+#
+# Arguments:
+#   ||+arg1+|| - ||+comment+||
+#
+# Results:
+#   ||+results+||
+
+proc ||+name+|| {||+something+||} {
+    ||+#code+||
+}

@@ -1,0 +1,8 @@
+switch ||+var+|| {
+    ||+pattern1+|| {
+        ||+#something+||
+    }
+    default {
+        ||+#something+||
+    }
+}
