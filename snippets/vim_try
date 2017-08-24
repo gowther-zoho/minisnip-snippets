@@ -1,0 +1,7 @@
+try
+    ||+"code+||
+catch /||+pattern+||/
+    ||+"code+||
+finally
+    ||+"cleanup+||
+endtry
