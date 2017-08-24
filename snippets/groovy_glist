@@ -1,0 +1,1 @@
+def ||+listName+|| = ["||+item1+||", "||+item2+||"]

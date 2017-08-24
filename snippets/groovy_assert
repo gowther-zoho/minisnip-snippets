@@ -1,0 +1,1 @@
+assert ||+assertion+|| == ||+result+|| : '||+error message+||'

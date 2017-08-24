@@ -1,0 +1,5 @@
+try {
+    ||+//code+||
+} catch ( ||+exception1+|| | ||+exception2+|| ) {
+    ||+//code+||
+}
