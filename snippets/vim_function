@@ -2,6 +2,6 @@
 "        NAME: ||+name+||
 " DESCRIPTION: ||+synopsis+||
 "=====================================================
-function! ||+name+||()
+function! ||+name+||(||+args+||)
     ||++||
 endfunction
